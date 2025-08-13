@@ -1,1 +1,9 @@
-streamlit torch torchvision timm Pillow pandas scipy joblib scikit-learn
+streamlit
+torch
+torchvision
+timm
+Pillow
+pandas
+scipy
+joblib
+scikit-learn
